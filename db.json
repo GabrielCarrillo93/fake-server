@@ -6,7 +6,7 @@
                     "titulo": "Titulo 1 -responsive",
                     "imagen": "assets/img/portfolio1.jpg",
                     "tags": "#HTML #CSS #Responsive",
-                    "descripcion": "Desde JSON Server. In this project I work with HTML and CSS to create a responsive page. The design is from devchallenge.io.Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+                    "descripcion": "In this project I work with HTML and CSS to create a responsive page. The design is from devchallenge.io.Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.Desde JSON Server. ",
                     "liveDemo": "https://gabrielcarrillo93.github.io/entrega01Digitalers/",
                     "sourceCode": "https://github.com/GabrielCarrillo93/entrega01Digitalers"
                 },
