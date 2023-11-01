@@ -4,7 +4,7 @@
             "responsive": [
                 {
                     "titulo": "Titulo 1 -responsive",
-                    "imagen": "assets/img/portfolio1.jpg",
+                    "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#HTML #CSS #Responsive",
                     "descripcion": "In this project I work with HTML and CSS to create a responsive page. The design is from devchallenge.io.Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.Desde JSON Server. ",
                     "liveDemo": "https://gabrielcarrillo93.github.io/entrega01Digitalers/",
@@ -12,7 +12,7 @@
                 },
                 {
                     "titulo": "Titulo 2 -responsive",
-                    "imagen": "assets/img/portfolio1.jpg",
+                    "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#HTML #CSS #Responsive",
                     "descripcion": "Desde JSON Server. In this project I work with HTML and CSS to create a responsive page. The design is from devchallenge.io.Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
                     "liveDemo": "https://gabrielcarrillo93.github.io/entrega01Digitalers/",
@@ -20,7 +20,7 @@
                 },
                 {
                     "titulo": "Titulo 3 -responsive",
-                    "imagen": "assets/img/portfolio1.jpg",
+                    "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#HTML #CSS #Responsive",
                     "descripcion": "Desde JSON Server. In this project I work with HTML and CSS to create a responsive page. The design is from devchallenge.io.Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
                     "liveDemo": "https://gabrielcarrillo93.github.io/entrega01Digitalers/",
@@ -30,7 +30,7 @@
             "javascript": [
                 {
                     "titulo": "Titulo 1 -javascript",
-                    "imagen": "assets/img/portfolio1.jpg",
+                    "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#Javascript",
                     "descripcion": "Desde JSON Server. In this project I work with HTML and CSS to create a responsive page. The design is from devchallenge.io.Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
                     "liveDemo": "https://gabrielcarrillo93.github.io/entrega01Digitalers/",
@@ -38,7 +38,7 @@
                 },
                 {
                     "titulo": "Titulo 2 -javascript",
-                    "imagen": "assets/img/portfolio1.jpg",
+                    "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#Javascript",
                     "descripcion": "Desde JSON Server. In this project I work with HTML and CSS to create a responsive page. The design is from devchallenge.io.Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
                     "liveDemo": "https://gabrielcarrillo93.github.io/entrega01Digitalers/",
@@ -46,7 +46,7 @@
                 },
                 {
                     "titulo": "Titulo 3 -javascript",
-                    "imagen": "assets/img/portfolio1.jpg",
+                    "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#Javascript",
                     "descripcion": "Desde JSON Server. In this project I work with HTML and CSS to create a responsive page. The design is from devchallenge.io.Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
                     "liveDemo": "https://gabrielcarrillo93.github.io/entrega01Digitalers/",
@@ -56,7 +56,7 @@
             "react": [
                 {
                     "titulo": "Titulo 1 -react",
-                    "imagen": "assets/img/portfolio1.jpg",
+                    "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#React",
                     "descripcion": "Desde JSON Server. In this project I work with HTML and CSS to create a responsive page. The design is from devchallenge.io.Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
                     "liveDemo": "https://gabrielcarrillo93.github.io/entrega01Digitalers/",
@@ -64,7 +64,7 @@
                 },
                 {
                     "titulo": "Titulo 2 -react",
-                    "imagen": "assets/img/portfolio1.jpg",
+                    "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#React",
                     "descripcion": "Desde JSON Server. In this project I work with HTML and CSS to create a responsive page. The design is from devchallenge.io.Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
                     "liveDemo": "https://gabrielcarrillo93.github.io/entrega01Digitalers/",
@@ -72,7 +72,7 @@
                 },
                 {
                     "titulo": "Titulo 3 -react",
-                    "imagen": "assets/img/portfolio1.jpg",
+                    "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#React",
                     "descripcion": "Desde JSON Server. In this project I work with HTML and CSS to create a responsive page. The design is from devchallenge.io.Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
                     "liveDemo": "https://gabrielcarrillo93.github.io/entrega01Digitalers/",
@@ -84,35 +84,35 @@
 	"certificados": [
 		{
 			"titulo": "Front end dev (JSON Server)",
-			"imagen": "assets/img/diploma.png",
+			"imagen": "../../assets/img/diploma.png",
 			"fecha": "Feb 2019 - Feb 2020"	
 		},
         {
 			"titulo": "Front end dev (JSON Server)",
-			"imagen": "assets/img/diploma.png",
+			"imagen": "../../assets/img/diploma.png",
 			"fecha": "Feb 2020 - Feb 2021"	
 		},
         {
 			"titulo": "Front end dev (JSON Server)",
-			"imagen": "assets/img/diploma.png",
+			"imagen": "../../assets/img/diploma.png",
 			"fecha": "Feb 2021 - Feb 2022"	
 		}
 	],
 	"experiencia": [
 		{
-			"logo": "assets/img/logo.png",
+			"logo": "../../assets/img/logo.png",
 			"puesto": "Front end developer",
 			"duracion": "Feb 2021 - Actualidad",
 			"descripcion": "Desde JSON Server. Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet."
 		},
         {
-			"logo": "assets/img/logo.png",
+			"logo": "../../assets/img/logo.png",
 			"puesto": "Front end developer",
 			"duracion": "Feb 2020 - Feb 2021",
 			"descripcion": "Desde JSON Server. Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet."
 		},
         {
-			"logo": "assets/img/logo.png",
+			"logo": "../../assets/img/logo.png",
 			"puesto": "Front end developer",
 			"duracion": "Feb 2019 - Feb 2020",
 			"descripcion": "Desde JSON Server. Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet."
