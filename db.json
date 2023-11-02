@@ -117,7 +117,7 @@
 		{
 			"id": 1,
 			"titulo": "Front end dev (JSON Server)",
-			"imagen": "../../assets/img/diploma.png",
+			"imagen": "require(../../assets/img/diploma.png)",
 			"fecha": "Feb 2019 - Feb 2020"	
 		},
         	{
