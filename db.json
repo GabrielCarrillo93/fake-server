@@ -3,6 +3,7 @@
         {
             "responsive": [
                 {
+		    "id": 1
                     "titulo": "Titulo 1 -responsive",
                     "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#HTML #CSS #Responsive",
@@ -11,6 +12,7 @@
                     "sourceCode": "https://github.com/GabrielCarrillo93/entrega01Digitalers"
                 },
                 {
+		    "id": 2
                     "titulo": "Titulo 2 -responsive",
                     "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#HTML #CSS #Responsive",
@@ -19,6 +21,7 @@
                     "sourceCode": "https://github.com/GabrielCarrillo93/entrega01Digitalers"
                 },
                 {
+		    "id": 3
                     "titulo": "Titulo 3 -responsive",
                     "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#HTML #CSS #Responsive",
@@ -28,7 +31,8 @@
                 }
             ],
             "javascript": [
-                {
+                {	
+		    "id": 1
                     "titulo": "Titulo 1 -javascript",
                     "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#Javascript",
@@ -37,6 +41,7 @@
                     "sourceCode": "https://github.com/GabrielCarrillo93/entrega01Digitalers"
                 },
                 {
+		    "id": 2
                     "titulo": "Titulo 2 -javascript",
                     "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#Javascript",
@@ -45,6 +50,7 @@
                     "sourceCode": "https://github.com/GabrielCarrillo93/entrega01Digitalers"
                 },
                 {
+		    "id": 3
                     "titulo": "Titulo 3 -javascript",
                     "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#Javascript",
@@ -55,6 +61,7 @@
             ],
             "react": [
                 {
+		    "id": 1
                     "titulo": "Titulo 1 -react",
                     "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#React",
@@ -63,6 +70,7 @@
                     "sourceCode": "https://github.com/GabrielCarrillo93/entrega01Digitalers"
                 },
                 {
+		    "id": 2
                     "titulo": "Titulo 2 -react",
                     "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#React",
@@ -71,6 +79,7 @@
                     "sourceCode": "https://github.com/GabrielCarrillo93/entrega01Digitalers"
                 },
                 {
+		    "id": 3
                     "titulo": "Titulo 3 -react",
                     "imagen": "../../assets/img/portfolio1.jpg",
                     "tags": "#React",
@@ -83,35 +92,41 @@
     ],
 	"certificados": [
 		{
+			"id": 1
 			"titulo": "Front end dev (JSON Server)",
 			"imagen": "../../assets/img/diploma.png",
 			"fecha": "Feb 2019 - Feb 2020"	
 		},
-        {
+        	{
+			"id": 2
 			"titulo": "Front end dev (JSON Server)",
 			"imagen": "../../assets/img/diploma.png",
 			"fecha": "Feb 2020 - Feb 2021"	
 		},
-        {
+        	{
+			"id": 3
 			"titulo": "Front end dev (JSON Server)",
-			"imagen": "../../assets/img/diploma.png",
+			"imagen": "assets/img/diploma.png",
 			"fecha": "Feb 2021 - Feb 2022"	
 		}
 	],
 	"experiencia": [
 		{
+			"id": 1
 			"logo": "../../assets/img/logo.png",
 			"puesto": "Front end developer",
 			"duracion": "Feb 2021 - Actualidad",
 			"descripcion": "Desde JSON Server. Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet."
 		},
-        {
+        	{
+			"id": 2
 			"logo": "../../assets/img/logo.png",
 			"puesto": "Front end developer",
 			"duracion": "Feb 2020 - Feb 2021",
 			"descripcion": "Desde JSON Server. Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet."
 		},
-        {
+        	{
+			"id": 3
 			"logo": "../../assets/img/logo.png",
 			"puesto": "Front end developer",
 			"duracion": "Feb 2019 - Feb 2020",
