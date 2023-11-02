@@ -112,7 +112,7 @@
 	],
 	"experiencia": [
 		{
-			"id": 1
+			"id": "1"
 			"logo": "../../assets/img/logo.png",
 			"puesto": "Front end developer",
 			"duracion": "Feb 2021 - Actualidad",
