@@ -129,7 +129,7 @@
         	{
 			"id": 3,
 			"titulo": "Front end dev (JSON Server)",
-			"imagen": "assets/img/diploma.png",
+			"imagen": "./assets/img/diploma.png",
 			"fecha": "Feb 2021 - Feb 2022"	
 		}
 	]
